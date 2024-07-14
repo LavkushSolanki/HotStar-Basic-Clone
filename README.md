@@ -22,8 +22,11 @@ This is HotStar clone where there is Login,Signup and basic interface of hotstar
 
 
 # Home Page
-## Here there is watch button for watching the movie.Like Button which toggle from white to red when a user want to add it to liked files.
+## Card representation for all movies and series
+## Watch button for watching the movie.
+## Like Button which toggle from white to red when a user want to add it to liked files.
 ## Functional Navbar for going again to login page
+![WhatsApp Image 2024-07-14 at 18 27 53_bd3f99d8](https://github.com/user-attachments/assets/af92aacb-b962-471a-8c11-e2e0646f2c92)
 ![WhatsApp Image 2024-07-14 at 08 25 36_127509d2](https://github.com/user-attachments/assets/27876862-04d2-4faf-b3df-ff3fb8c4e093)
 <br>
 ## Horizontal Scroll Bar for top lists
