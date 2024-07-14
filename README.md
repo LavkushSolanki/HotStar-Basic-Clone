@@ -32,3 +32,8 @@ This is HotStar clone where there is Login,Signup and basic interface of hotstar
 ## Horizontal Scroll Bar for top lists
 ![WhatsApp Image 2024-07-14 at 08 25 35_b331f42b](https://github.com/user-attachments/assets/03912004-ab37-4c94-9d72-73408283795e)
 <br>
+
+
+# Button Page
+![Screenshot (221)](https://github.com/user-attachments/assets/acf49be7-5e09-4d7a-8acf-d7f2c4990276)
+
