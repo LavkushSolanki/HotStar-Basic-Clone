@@ -31,7 +31,14 @@ This is HotStar clone where there is Login,Signup and basic interface of hotstar
 <br>
 ## Horizontal Scroll Bar for top lists
 ![WhatsApp Image 2024-07-14 at 08 25 35_b331f42b](https://github.com/user-attachments/assets/03912004-ab37-4c94-9d72-73408283795e)
-<br>
+
+# Individual Card Component
+## Here slide show feature is present which trigger after 5s
+![WhatsApp Image 2024-07-14 at 08 25 34_16b9adfe](https://github.com/user-attachments/assets/8dbcdf08-dc7a-453b-bbdf-ee4ef1a2da4f)
+![WhatsApp Image 2024-07-14 at 08 25 35_4965a23f](https://github.com/user-attachments/assets/78feae86-bdfa-44ac-a061-bf4d3c4b80ba)
+![WhatsApp Image 2024-07-14 at 08 25 35_dbfc58cf](https://github.com/user-attachments/assets/5838bf92-1286-4812-9ce8-4441f677be22)
+
+
 
 
 # Button Page
